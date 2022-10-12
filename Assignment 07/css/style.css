@@ -1,0 +1,421 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ************ first page***************** */
+.zee1 {
+  width: 100%;
+  background-color: black;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  position: fixed;
+  text-align: center;
+}
+
+.zee1 ul li a {
+  color: #f5f5f7;
+  text-decoration: none;
+  padding: 0 10px;
+  padding-left: 10px;
+}
+
+.zee1 ul li {
+  display: inline;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.phone {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  color: beige;
+  padding-top: 70px;
+}
+
+.phone h3 {
+  font-weight: lighter;
+}
+
+.phone a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+}
+
+/* ************ first page end***************** */
+
+/* ************ second page start***************** */
+.phone1 {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 40px;
+  color: black;
+  background-image: url("../images/img2.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.phone1 p {
+  color: gray;
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.phone1 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.phone1 h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+.phone1 h1 {
+  padding-bottom: 10px;
+}
+
+/* ************ second page end***************** */
+
+.phone2 {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 40px;
+  background-image: url("../images/watch.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.phone2 h1 {
+  text-transform: uppercase;
+}
+
+.phone2 h3 {
+  font-size: 1.5rem;
+  font-weight: 100;
+  text-transform: capitalize;
+}
+
+.phone2 p {
+  color: orange;
+  font-size: 1.5rem;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.phone2 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+/* ************ 4th  page***************** */
+
+.phone3 {
+  display: inline-block;
+  width: 45%;
+  height: 100vh;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 45px;
+  padding-left: 20px;
+  margin-left: 10px;
+  background-image: url("../images/airpod.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0%;
+  color: beige;
+}
+
+.phone3 h3 {
+  font-size: 1.5rem;
+  font-weight: lighter;
+  text-transform: capitalize;
+}
+
+.phone3 h1 {
+  font-weight: lighter;
+}
+
+.phone3 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.phone4 {
+  display: inline-block;
+  width: 50%;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  margin-left: 20px;
+  color: #fff !important;
+  font-size: 1.5rem;
+  background-image: url(../images/watch2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.phone4 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.phone4 h1 i {
+  color: #fff;
+}
+
+.phone4 h3 {
+  font-size: 1.5rem;
+  font-weight: 50;
+  text-transform: capitalize;
+}
+
+.phone4 p {
+  color: red;
+}
+
+.phone4 h1 {
+  font-weight: lighter;
+}
+
+/* ************ 4th  page end***************** */
+
+/* ************ 5th  page***************** */
+
+.phone5 {
+  display: inline-block;
+  width: 50%;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: black;
+  background-image: url("../images/watch3.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.phone5 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+.phone5 h3 {
+  font-size: 1.5rem;
+  font-weight: 50;
+  text-transform: capitalize;
+}
+
+.phone5 p {
+  color: red;
+}
+
+.phone6 {
+  display: inline-block;
+  width: 45%;
+  height: 100vh;
+  text-align: center;
+  padding: px;
+
+  margin-left: 15px;
+  margin-top: 40px;
+  background-image: url("../images/cell\ 1.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.phone6 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+.phone6 h3 {
+  font-size: 1.5rem;
+  font-weight: 50;
+  text-transform: capitalize;
+  padding-top: 10px;
+}
+.phone6 h1 {
+  padding-top: 25px;
+}
+
+/* *******************5th page end************ */
+
+/* *******************6th page ************ */
+.M1 {
+  display: inline-block;
+  width: 50%;
+  height: 100vh;
+  text-align: center;
+  padding-top: 25px;
+  background-image: url("../images/8.png");
+  margin-left: 15px;
+  padding: 15px;
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: cover;
+}
+
+.M1 h3 {
+  font-size: 1.5rem;
+  font-weight: 50;
+  text-transform: capitalize;
+  padding-top: 10px;
+}
+
+.M1 p {
+  text-transform: capitalize;
+  font-size: 28px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  padding: 20px 0;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.pakages-detail {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.M1 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+.M2 {
+  display: inline-block;
+  width: 45%;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  margin-right: 15px;
+  background-image: url("../images/chip.jpeg");
+  background-repeat: no-repeat;
+  background-position: 0;
+  background-size: cover;
+}
+
+.M2 h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding-top: 10px;
+}
+
+.M2 {
+  padding-top: 30px;
+}
+
+.M2 a {
+  color: DodgerBlue;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-decoration: none;
+}
+
+/* ****************8th page*********************************** */
+
+.container {
+  display: flex;
+  gap: 5rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+.addtext {
+  list-style: none !important;
+  display: grid;
+  gap: 0.5rem;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 1rem;
+  color: #424245;
+  background-color: #f5f5f7;
+}
+ol {
+  width: 65%;
+  border-bottom: 1px solid #6e6e73;
+  padding-bottom: 1rem;
+}
+ol li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+
+a {
+  color: #6e6e73;
+  text-decoration: none;
+}
+.column {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
+
+.bottom-container {
+  width: 65%;
+}
+
+.internel-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  column-gap: 1rem;
+}
